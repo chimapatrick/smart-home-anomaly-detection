@@ -32,7 +32,7 @@ A simulated smart home IoT dataset containing:
 1. Install dependencies: pip install pandas scikit-learn matplotlib
  
 2. Run the program: python anomaly_detection.py
-3. 
+   
 ## Example Output
 The system identifies abnormal device behaviour and visualizes anomalies using graphs.
 
